@@ -1,4 +1,4 @@
-# repositorio_teste
+# repositorio_teste - CLONE
 Repositório de teste para envios e exclusão de arquivos da aula de versionamento.
 
 Desenvolvido para testes de envio de arquivos e versionamentos de softwares, aonde todos os arquivos aqui 
