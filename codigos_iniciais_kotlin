@@ -1,0 +1,76 @@
+/**
+ * IDENTAÇÃO DE 4 ESPAÇOS OBRIGATÓRIA
+ * CADA LINHA TEM QUE TER O SEU PRÓPRIO CÓDIGO (SE HOUVER MAIS DE UM PRINTLN, COLOCAR UM EM CADA LINHA)
+ * ESPAÇO OBRIGATÓRIO ANTES DO {
+ * O NOME DA FUNÇÃO DEVE COMEÇAR EM MINÚSCULA E DEVE TER DEMAIS PALAVRAS EM MAIÚSCULA
+ * EX: comprarPãoDoce
+ * A CHAVE DE FECHAMENTO DA FUNÇÃO DEVE ESTAR ALINHADA COM A PALAVRA FUN (QUE SIGNIFICA FUNCTION) }
+ */
+
+
+/**
+ * Exercício 1 - troce o texto "world" por "Android"
+ */
+fun main() {
+    println("Hello, Android!!!")
+}
+
+/**
+ * Exercício 2 - gere o código para uma lista de 1 a 3
+ */
+fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+
+/**
+ * Exercício 3 - gere o código para as seguintes saídas de texto:
+ * Estou
+ * Aprendendo
+ * Kotlin!
+ */
+fun main() {
+    println("Estou")
+    println("Aprendendo")
+    println("Kotlin!")
+}
+
+/**
+ * Exercício 4 - Corrija o código abaixo para que ele exiba os dias da semana corretamente
+ */
+fun main() {
+    println("Quarta")
+    println("Terça")
+    println("Quinta")
+    println("Sexta")
+    println("Segunda")
+}
+
+/**
+ * Exercício 5 - Corrija os erros do código abaixo
+ * fun main() {
+ *  println("Tomorrow is rainy)
+ */
+
+
+/**
+ * Exercício 5 - Corrija os erros do código abaixo
+ */
+fun main() {
+    printLine("There is a chance of snow")
+}
+
+/**
+ * Exercício 6 - Corrija os erros do código abaixo
+ */
+fun main() {
+    println("Nublado") println("Parcialmente Nublado") println("Ventania")
+}
+
+/**
+ * Exercício 7 - Corrija os erros do código abaixo
+ */
+fun main() (
+    println("How's the weather today?")
+)
